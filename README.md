@@ -19,7 +19,8 @@ The "brain" of the system is a hierarchical Finite State Machine (FSM) designed 
   * Safety Logic: Integrated limit switch logic (e.g., Endsch_EG_u, Endsch_2_o) to ensure the cabin stays within the physical boundaries of the shaft.
 
 
-    <img width="711" height="750" alt="image" src="https://github.com/user-attachments/assets/ca6d6f32-10c4-4939-af14-f45a0996104a" />
+    <img width="708" height="720" alt="image" src="https://github.com/user-attachments/assets/8a309e54-e0cf-45c0-8b4d-3917211373c2" />
+
 
 
   
